@@ -23,7 +23,9 @@ public class Pumpkin {
 
     }
     
-    /* main method (for testing) */
+    /* 
+     * main method (for testing)
+     */
     public static void main(String[] args) {
         Pumpkin myPumpkin = new Pumpkin();
         myPumpkin.display();
